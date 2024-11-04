@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FarmSteam", "FarmSteam\FarmSteam.pyproj", "{6583A07C-5086-4561-9092-FC0B0CEF96E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6583A07C-5086-4561-9092-FC0B0CEF96E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6583A07C-5086-4561-9092-FC0B0CEF96E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {547B21C9-201C-4832-BBC9-15CBB29B93E8}
+	EndGlobalSection
+EndGlobal
